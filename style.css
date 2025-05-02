@@ -9,7 +9,8 @@ body {
     margin:0;
     box-sizing: border-box;
     padding: 0 ;
-    flex-wrap: wrap;
+    max-width: max-content;
+    max-height: max-content;
 
 }
 
